@@ -1,5 +1,5 @@
 public class MyArrayList<E> {
-
+//
     private Object[] elements;
     private int size;
 
